@@ -58,7 +58,7 @@ const mekanBilgisi = function(req,res,next){
                             ],
                             "yorumlar":[
                                     {
-                                            "yorumYapan": "Alpay Özer",
+                                            "yorumYapan": "Eyüp Erbeyin",
                                             "puan":"4",
                                             "tarih":"20 Ekim 2022",
                                             "yorumMetni": "Kahveler iyi."

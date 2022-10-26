@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a02feec3-216e-4724-93bd-f41caf9dbf7e" name="Changes" comment="add : yeni mekanlar eklendi">
-      <change afterPath="$PROJECT_DIR$/app_server/views/fonksiyonlar/yildiz.pug" afterDir="false" />
+    <list default="true" id="a02feec3-216e-4724-93bd-f41caf9dbf7e" name="Changes" comment="add : fonksiyon ozelligi eklendi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_server/controllers/mekanlar.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/mekanlar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/anasayfa.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/views/anasayfa.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/mekanbilgisi.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/views/mekanbilgisi.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +115,8 @@
       <workItem from="1666083737900" duration="226000" />
       <workItem from="1666086177489" duration="135000" />
       <workItem from="1666092453927" duration="97000" />
-      <workItem from="1666788196923" duration="550000" />
+      <workItem from="1666788196923" duration="1172000" />
+      <workItem from="1666796735345" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="add : eklendi">
       <created>1665768938497</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665769733042</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add : fonksiyon ozelligi eklendi">
+      <created>1666788918416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666788918416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +167,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add : eklendi" />
     <MESSAGE value="add : yeni mekanlar eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="add : yeni mekanlar eklendi" />
+    <MESSAGE value="add : fonksiyon ozelligi eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="add : fonksiyon ozelligi eklendi" />
   </component>
 </project>
