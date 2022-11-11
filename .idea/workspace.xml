@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a02feec3-216e-4724-93bd-f41caf9dbf7e" name="Changes" comment="add : fonksiyon ozelligi eklendi">
-      <change afterPath="$PROJECT_DIR$/app_server/models/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_server/models/insert.mongodb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_server/models/mekansema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_server/models/update.mongodb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/controllers/digerleri.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/digerleri.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/controllers/mekanlar.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/mekanlar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/views/layout.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +130,7 @@
       <workItem from="1667390315887" duration="6372000" />
       <workItem from="1667906791346" duration="45000" />
       <workItem from="1668192833918" duration="1258000" />
-      <workItem from="1668195392841" duration="115000" />
+      <workItem from="1668195392841" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="add : eklendi">
       <created>1665768938497</created>
